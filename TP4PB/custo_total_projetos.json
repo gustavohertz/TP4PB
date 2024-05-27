@@ -1,0 +1,10 @@
+[
+    {
+        "NomeDepartamento": "Financeiro",
+        "CustoTotal": 75000
+    },
+    {
+        "NomeDepartamento": "Tecnologia",
+        "CustoTotal": 50000
+    }
+]

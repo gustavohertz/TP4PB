@@ -1,0 +1,7 @@
+ID,FuncionarioID,NomeDependente,DataNascimento,Relacao
+1,1,Fernando Silva,2010-04-20,Filho
+2,1,Alice Silva,2012-09-15,Filha
+3,2,Lucas Oliveira,2015-11-30,Filho
+4,2,Beatriz Oliveira,2018-06-25,Filha
+5,3,Matheus Pereira,2008-01-12,Filho
+6,3,Marina Pereira,2011-05-22,Filha

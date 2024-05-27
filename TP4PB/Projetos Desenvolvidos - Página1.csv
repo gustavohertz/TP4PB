@@ -1,0 +1,7 @@
+,,,,,,,,
+,IDProjeto,NomeProjeto,Descricao,DataInicio,DataConclusao,FuncionarioResponsavelID,Custo,Status
+,1,Projeto A,Desenvolvimento de nova plataforma,2023-01-01,2023-06-30,3,50000,Concluído
+,2,Projeto B,Campanha publicitária,2023-03-01,2023-08-31,4,20000,Em Execução
+,3,Projeto C,Sistema de gestão financeira,2023-02-01,2023-07-31,2,75000,Concluído
+,4,Projeto D,Aplicativo móvel,2023-04-01,2023-12-31,5,30000,Em Execução
+,5,Projeto E,Suporte ao cliente,2023-05-01,2023-10-31,1,15000,Em Execução

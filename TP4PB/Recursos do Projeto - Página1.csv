@@ -1,0 +1,13 @@
+IDRecurso,IDProjeto,DescricaoRecurso,TipoRecurso,Quantidade,DataUtilizacao
+1,1,Desenvolvedores,Humano,5,2023-01-01
+2,1,Servidores,Material,3,2023-02-01
+3,1,Investimento Financeiro,Financeiro,50000,2023-01-15
+4,2,Designers,Humano,2,2023-03-01
+5,2,Mídia Publicitária,Material,10,2023-04-01
+6,2,Orçamento Publicitário,Financeiro,20000,2023-03-15
+7,3,Analistas,Humano,4,2023-02-01
+8,3,Software de Gestão,Material,1,2023-03-01
+9,3,Investimento Financeiro,Financeiro,75000,2023-02-15
+10,4,Desenvolvedores,Humano,3,2023-04-01
+11,4,Equipamento Móvel,Material,5,2023-05-01
+12,4,Orçamento de Desenvolvimento,Financeiro,30000,2023-04-15
